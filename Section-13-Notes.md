@@ -1,5 +1,6 @@
 - [ ] Section 13: Live Search (UI JavaScript) 1/7 | 1hr 25min
   - [ ] 54. Live Search 10min
+    - 3:17 JavaScript
   - [ ] 55. Quick Note About The Next Lesson 1min
   - [ ] 56. Open and Close Search Overlay 18min
   - [ ] 57. Preventing the Text Field Suggestions Pop-up 1min
